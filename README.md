@@ -11,7 +11,7 @@ Replace you .vimrc
 
 ######
 ```sh
-wget https://raw.githubusercontent.com/junegunn/vim-plug/master/README.md -O ~/.vimrc
+wget https://raw.githubusercontent.com/gorgiaxx/rc/master/.vimrc -O ~/.vimrc
 ```
 
 Run vim to install plugins
