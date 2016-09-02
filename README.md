@@ -10,8 +10,15 @@ Before you use the customized .vimrc. Be sure that the requirements are installe
 Replace you .vimrc
 
 ######
+
+wget
 ```sh
 wget https://raw.githubusercontent.com/gorgiaxx/rc/master/.vimrc -O ~/.vimrc
+```
+
+curl
+```sh
+curl -Lo ~/.vimrc https://raw.githubusercontent.com/gorgiaxx/rc/master/.vimrc
 ```
 
 Run vim to install plugins
